@@ -1,7 +1,11 @@
 
 title: Dev Aspects
-
 description: Nady Habashy's Homepage
-
+show_downloads: false
 theme: jekyll-theme-architect
 
+github:
+   repository_url: http://devaspects.com
+   repository_name: devaspects
+   owner_url: http://nady.habashy.de
+   owner_name: Nady Habashy
